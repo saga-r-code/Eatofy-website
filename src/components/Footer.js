@@ -49,7 +49,7 @@ const Footer = () => {
         </div>
       </footer>
       
-            <p className="text-white pt-20 absolute bottom-5 right-1/3">
+            <p className="text-white  pt-20 absolute bottom-5 px-5 text-center md:px-0 md:right-1/3">
               © 2024 Eatofy. All rights reserved. Developed by Appniche
               Technologies
             </p>
