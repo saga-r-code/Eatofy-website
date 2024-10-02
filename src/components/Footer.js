@@ -54,7 +54,7 @@ const Footer = () => {
               Technologies
             </p>
   
-    </div>
+  </div>
   );
 };
 

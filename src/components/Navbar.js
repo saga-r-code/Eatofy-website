@@ -28,13 +28,13 @@ const Navbar = () => {
           <a href="/Contact">Conatct</a>
           <div className=" md:hidden ">
             <button className="active:bg-red-400 w-40  py-2 cursor-pointer text-lg rounded-full font-bold text-white bg-[#ef4444]">
-              Dark
+              Get Started
             </button>
           </div>
         </ul>
 
-        <div className="hidden md:block px-10 py-2 cursor-pointer text-lg rounded-full font-bold text-white bg-[#ef4444]">
-          Dark
+        <div className="hidden md:block px-5 py-2 cursor-pointer text-lg rounded-full font-bold text-white bg-[#ef4444]">
+          Get Started
         </div>
       </nav>
     </div>
