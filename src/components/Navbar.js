@@ -22,10 +22,10 @@ const Navbar = () => {
             menu ? "flex" : "hidden"
           } absolute  top-[4.5rem] w-full left-0 p-5 gap-5  bg-red-400 text-white font-semibold  text-center  text-lg flex-col md:flex-row md:w-auto md:items-center md:font-normal md:text-black md:bg-transparent md:flex md:static`}
         >
-          <a href="/">Home</a>
-          <a href="/About">About Us</a>
-          <a href="/Serce">Service</a>
-          <a href="/Contact">Conatct</a>
+          <a href="#">Home</a>
+          <a href="#about">About Us</a>
+          <a href="#service">Service</a>
+          <a href="#contact">Conatct</a>
           <div className=" md:hidden ">
             <button className="active:bg-red-400 w-40  py-2 cursor-pointer text-lg rounded-full font-bold text-white bg-[#ef4444]">
               Get Started
